@@ -13,3 +13,7 @@ function sum(num1,num2){
 function isAllowed(age){
     return age > 18 ? true : false
 }
+
+function fun() {
+    alert("poodat");
+}
